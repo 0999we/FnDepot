@@ -5,6 +5,7 @@
     "desc": "基于Web的iSCSI目标挂载工具，支持iSCSI目标发现、登录、挂载和开机自启动功能",
     "labels": "工具",
     "author": "0999we",
+    "download_url": "https://github.com/0999we/FnDepot/releases/download/1.0.0/iscsi-manager.fpk",
     "author_url": "https://github.com/0999we/FnDepot",
     "bug_report_url": "https://qm.qq.com/q/zwZiERlmv0",
     "install_type": "系统空间",
