@@ -1,0 +1,50 @@
+{
+   "iscsi-manager": {
+        "display_name": "iscsi-manager",
+        "desc": "基于Web的iSCSI目标挂载工具，支持iSCSI目标发现、登录、挂载和开机自启动功能",
+        "labels": "工具",
+        "version": "1.0.0",
+        "author": "iscsi-manager",
+        "author_url": "https://github.com/0999we/FnDepot",
+        "bug_report_url": "https://qm.qq.com/q/zwZiERlmv0",
+        "install_type": "存储空间",
+        "size": "10.4",
+        "history": {
+            "v1.0.0": "初始版本"
+        }
+    },
+    "wordmbdy": {
+        "display_name": "wordmbdy",
+        "desc": "一个WORD模板批量填充工具",
+        "labels": "工具",
+        "version": "1.0.0",
+        "author": "wordmbdy",
+        "author_url": "https://github.com/0999we/FnDepot",
+        "bug_report_url": "https://qm.qq.com/q/zwZiERlmv0",
+        "install_type": "存储空间",
+        "size": "297",
+        "history": {
+            "v1.0.0": "初始版本"
+        }
+    },
+
+}
+
+
+{
+  "iscsi-manager": {
+    "display_name": "iSCSI挂载工具",
+    "desc": "基于Web的iSCSI目标挂载工具，支持iSCSI目标发现、登录、挂载和开机自启动功能",
+    "labels": "工具",
+    "version": "1.0.0",
+    "author": "0999we",
+    "author_url": "https://github.com/0999we/FnDepot",
+    "bug_report_url": "https://qm.qq.com/q/zwZiERlmv0",
+    "install_type": "存储空间",
+    "size": "15",
+    "history": {
+      "v1.0.0": "初始版本",
+     
+    }
+  }
+}
