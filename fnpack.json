@@ -13,5 +13,22 @@
     "history": {
       "v1.0.0": "初始版本"
     }
+  },
+  
+  "wordmbdy": {
+    "display_name": "WORD模板批量填充工具",
+    "version": "1.0.0",
+    "desc": "一个WORD模板批量填充工具",
+    "labels": "工具",
+    "download_url": "http://openlist1.s.odn.cc/ss/do/wordmbdy/wordmbdy.fpk",
+    "author": "0999we",
+    "author_url": "https://github.com/0999we/FnDepot",
+    "bug_report_url": "https://qm.qq.com/q/zwZiERlmv0",
+    "install_type": "系统空间",
+    "size": "10.4",
+    "history": {
+      "v1.0.0": "初始版本"
+    }
   }
+  
 }
