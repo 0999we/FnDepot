@@ -1,34 +1,29 @@
 {
   "iscsi-manager": {
     "display_name": "iSCSI挂载工具",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "desc": "基于Web的iSCSI目标挂载工具，支持iSCSI目标发现、登录、挂载和开机自启动功能",
     "labels": "工具",
-    “download_url”: “https://github.com/0999we/FnDepot/releases/download/1.0.1/iscsi-manager.fpk”,
-    “作者”: “0999we”,
-    “author_url”: “https://github.com/0999we/FnDepot”，
-    “bug_report_url”: “https://qm.qq.com/q/zwZiERlmv0”,
-    "安装类型": "系统空间",
-    "大小": "10.4",
-    “历史”: {
-      “v1.0.1”: "修改配色"
-    }
+    "download_url": "https://github.com/0999we/FnDepot/releases/download/1.0.1/iscsi-manager.fpk",
+    "distributor": "0999we",
+    "author_url": "https://github.com/0999we/FnDepot",
+    "install_type": "存储空间",
+    "size": "10.4",
+    "changelog": "初始版本"
   },
   
   "wordmbdy": {
-    “display_name”: “WORD模板批量填充工具”,
+    "display_name": "WORD模板批量填充工具",
     "version": "1.0.0",
-    “desc”: “一个WORD模板批量填充工具”,
+    "desc": "一个WORD模板批量填充工具",
     "labels": "工具",
-    “download_url”: “http://openlist1.s.odn.cc/ss/do/wordmbdy/wordmbdy.fpk”,
-    “作者”: “0999we”,
-    “author_url”: “https://github.com/0999we/FnDepot”,
-    “bug_report_url”: “https://qm.qq.com/q/zwZiERlmv0”,
-    "安装类型": "系统空间",
+    "download_url": "http://openlist1.s.odn.cc/ss/do/wordmbdy/wordmbdy.fpk",
+    "distributor": "0999we",
+    "author_url": "https://github.com/0999we/FnDepot",
+    "install_type": "系统空间",
     "size": "297",
-    "历史": {
-      "v1.0.0": "初始版本"
-    }
+    "changelog": "初始版本"
+  
   }
   
 }
